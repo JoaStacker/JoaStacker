@@ -1,6 +1,8 @@
 ### Hi everyone 👋
 
-- 🔭 I’m currently working on CherryChat! productivity web application.
+- 🔭 I’m currently working on [CherryChat!:cherries:](https://cherrychat-taskmanager.herokuapp.com/) productivity web application.
+
+   
 - 🌱 I’m currently learning React testing library.
 - 👯 I’m looking to collaborate on Front-end projects.
 - 💬 Ask me about frontend architecture.
