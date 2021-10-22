@@ -6,9 +6,7 @@
 - 💬 Ask me about frontend architecture.
 - ⚡ Fun fact: Love reading docs.
 
-Stack:
-
-React       ![50%](https://progress-bar.dev/80)
+Technologies:
 
 Javascript  ![50%](https://progress-bar.dev/70)
 
