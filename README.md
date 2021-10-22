@@ -1,24 +1,18 @@
-### Hi there 👋
+### Hi everyone 👋
 
-<!--
-**JoaStacker/JoaStacker** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 I’m currently working on CherryChat! productivity web application.
+- 🌱 I’m currently learning React testing library.
+- 👯 I’m looking to collaborate on Front-end projects.
+- 💬 Ask me about frontend architecture.
+- ⚡ Fun fact: Love reading docs.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-Technlogies:
+Stack:
 
 React       ![50%](https://progress-bar.dev/80)
+
 Javascript  ![50%](https://progress-bar.dev/70)
+
 C/C++       ![50%](https://progress-bar.dev/50)
+
 Python      ![50%](https://progress-bar.dev/30)
 
