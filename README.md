@@ -17,8 +17,8 @@ Here are some ideas to get you started:
 
 Technlogies:
 
-React       https://progress-bar.dev/80/
-Javascript  https://progress-bar.dev/70/
-C/C++       https://progress-bar.dev/50/
-Python      https://progress-bar.dev/30/
+React       ![50%](https://progress-bar.dev/80)
+Javascript  ![50%](https://progress-bar.dev/70)
+C/C++       ![50%](https://progress-bar.dev/50)
+Python      ![50%](https://progress-bar.dev/30)
 
