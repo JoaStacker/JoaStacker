@@ -14,3 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+Technlogies:
+
+React       https://progress-bar.dev/80/
+Javascript  https://progress-bar.dev/70/
+C/C++       https://progress-bar.dev/50/
+Python      https://progress-bar.dev/30/
+
