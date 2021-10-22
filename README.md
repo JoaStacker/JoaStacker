@@ -3,7 +3,7 @@
 - 🔭 I’m currently working on [CherryChat!:cherries:](https://cherrychat-taskmanager.herokuapp.com/) productivity web application.
 
    
-- 🌱 I’m currently learning [React testing library:test_tube:](https://testing-library.com/docs/react-testing-library/intro).
+- :octopus: I’m currently learning [React testing library:test_tube:](https://testing-library.com/docs/react-testing-library/intro).
 - 👯 I’m looking to collaborate on Front-end projects.
 - 💬 Ask me about frontend architecture.
 - ⚡ Fun fact: Love reading docs.
