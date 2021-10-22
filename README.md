@@ -4,7 +4,7 @@
 
    
 - :octopus: I’m currently learning [React testing library:test_tube:](https://testing-library.com/docs/react-testing-library/intro).
-- :books: I'm studying Systems Engineering.
+- :computer: I'm studying Systems Engineering.
 - 👯 I’m looking to collaborate on Front-end projects.
 - 💬 Ask me about frontend architecture.
 - ⚡ Fun fact: Love reading docs.
