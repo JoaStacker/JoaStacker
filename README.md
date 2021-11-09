@@ -1,6 +1,6 @@
 ### Hi everyone 👋
 
-- 🔭 I’m currently working on [CherryChat!:cherries:](https://cherrychat-taskmanager.herokuapp.com/) productivity web application.
+- 🔭 I’m currently working on [Indigo:cherries:](https://indigo-taskmanager.herokuapp.com/) productivity web application.
 
    
 - :octopus: I’m currently learning [React testing library:test_tube:](https://testing-library.com/docs/react-testing-library/intro).
