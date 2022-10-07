@@ -3,7 +3,7 @@
 - 🔭 I’m currently working on [Indigo:cherries:](https://indigo-taskmanager.herokuapp.com/) productivity web application.
 
    
-- :octopus: I’m currently learning [React testing library:test_tube:](https://testing-library.com/docs/react-testing-library/intro).
+- :octopus: I’m currently learning Docker and Kubernetes.
 - :computer: I'm studying [Systems Engineering](https://en.wikipedia.org/wiki/Systems_engineering).
 - 💡 Electromechanical Technician.
 - 👯 I’m looking to collaborate on web projects.
