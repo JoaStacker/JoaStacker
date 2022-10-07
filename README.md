@@ -1,6 +1,6 @@
 ### Hi everyone 👋
 
-- 🔭 I’m currently working on [Harvask:cherries:](https://indigo-taskmanager.herokuapp.com/), the developers crypto farm.
+- 🔭 I’m currently working on [Harvask:cherries:](https://indigo-taskmanager.herokuapp.com/) a crypto farm exclusive for developers.
 
    
 - :octopus: I’m currently learning Docker and Kubernetes.
