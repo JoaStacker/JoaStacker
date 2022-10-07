@@ -12,9 +12,11 @@
 
 Technologies:
 
-Javascript  ![50%](https://progress-bar.dev/90)
+Javascript  ![50%](https://progress-bar.dev/96)
 
-C/C++       ![50%](https://progress-bar.dev/60)
+Python      ![50%](https://progress-bar.dev/80)
 
-Python      ![50%](https://progress-bar.dev/40)
+C/C++       ![50%](https://progress-bar.dev/40)
+
+
 
