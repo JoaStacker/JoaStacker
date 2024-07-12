@@ -3,8 +3,8 @@
 - 🔭 I’m currently working on [Harvask:cherries:](https://indigo-taskmanager.herokuapp.com/) a crypto farm exclusive for developers.
 
    
-- :octopus: I’m currently learning Docker and Kubernetes.
-- :computer: I'm studying [Systems Engineering](https://en.wikipedia.org/wiki/Systems_engineering).
+- I’m currently learning Data Science applied to data-based web apps.
+- I'm studying [Systems Engineering](https://en.wikipedia.org/wiki/Systems_engineering).
 - 💡 Electromechanical Technician.
 - 👯 I’m looking to collaborate on web projects.
 - 💬 Ask me about time management.
@@ -12,11 +12,11 @@
 
 Technologies:
 
-Javascript  ![50%](https://progress-bar.dev/96)
+Python      ![50%](https://progress-bar.dev/90)
 
-Python      ![50%](https://progress-bar.dev/80)
+React  ![50%](https://progress-bar.dev/90)
 
-C/C++       ![50%](https://progress-bar.dev/40)
+Vue  ![50%](https://progress-bar.dev/80)
 
 
 
