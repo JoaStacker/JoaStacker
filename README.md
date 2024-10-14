@@ -9,6 +9,7 @@
 - 👯 I’m looking to collaborate on web projects.
 - 💬 Ask me about time management.
 - ⚡ Fun fact: Love reading docs.
+- ❤️ Hobbies: chess and art. 
 
 Technologies:
 
