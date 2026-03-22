@@ -1,6 +1,6 @@
 ### Hi everyone 👋
 
-- 🔭 I’m currently working on [Harvask:cherries:](https://indigo-taskmanager.herokuapp.com/) a crypto farm exclusive for developers.
+- 🔭 I’m currently working on freelance and sid-projects with high emphasis on software architecture and systems design.
 
    
 - I’m currently learning Data Science and Machine Learning applied to data-based web apps.
