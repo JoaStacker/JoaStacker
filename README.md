@@ -1,23 +1,15 @@
 ### Hi everyone 👋
 
-- 🔭 I’m currently working on freelance and sid-projects with high emphasis on software architecture and systems design.
+🔭 I’m currently working on freelance and side-projects with high emphasis on software architecture and systems design. I am also learning DevOps practices applied to web-based and data intensive apps. Looking to collaborate on web full stack projects.
 
-   
-- I’m currently learning Data Science and Machine Learning applied to data-based web apps.
-- I'm studying [Systems Engineering](https://en.wikipedia.org/wiki/Systems_engineering).
-- 💡 Electromechanical Technician.
-- 👯 I’m looking to collaborate on web projects.
-- 💬 Ask me about productivity.
-- ⚡ Fun fact: Love reading docs.
-- ❤️ Hobbies: chess and art. 
+Passionated about system design, DSA, architecture patterns and algorithms.
+Follow me on **leetcode**: [joessar99](https://leetcode.com/u/joessar99/)
 
-Technologies:
+Fun fact: Love reading docs.
 
-Python      ![50%](https://progress-bar.dev/90)
+❤️ Hobbies: chess, drawing, painting and music instruments. You can check my art on my instagram account: [@joaquinsdn.art](https://www.instagram.com/joaquinsdn.art/)
 
-React  ![50%](https://progress-bar.dev/90)
-
-Vue  ![50%](https://progress-bar.dev/80)
+🎮 I'm also learning Unity at my own pace making my own 2D game, blending it all together: systems + my art.
 
 
 
